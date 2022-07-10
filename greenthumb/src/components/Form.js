@@ -1,9 +1,10 @@
+import { useState } from "react";
+import "../App.css";
+
 function Form() {
   return (
     <div>
-      <form>
-        <input type="text"></input>
-      </form>
+      <form></form>
     </div>
   );
 }
